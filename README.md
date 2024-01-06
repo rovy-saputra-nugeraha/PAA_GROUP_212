@@ -1,7 +1,4 @@
 # PAA_GROUP_212
-"""
-README: Project Permainan Droid
-
 Deskripsi Proyek:
 -----------------
 
@@ -34,4 +31,15 @@ Cara Menjalankan Permainan:
 1. Pastikan Python telah terinstal di sistem Anda.
 2. Unduh semua file proyek ke dalam direktori lokal.
 3. Buka terminal dan arahkan ke direktori proyek.
-4. Jalankan permainan dengan perintah:
+4. Jalankan permainan
+
+Kontribusi:
+---------------------------
+
+Jika Anda tertarik untuk berkontribusi pada proyek ini, kami sangat menyambut partisipasi Anda. Silakan buat pull request dengan perubahan atau tambahan fitur yang diusulkan.
+
+Catatan Penting:
+---------------------------
+
+Permainan ini dikembangkan untuk tujuan hiburan dan pembelajaran. Segala bentuk kontribusi, saran, atau laporan bug sangat dihargai.
+
